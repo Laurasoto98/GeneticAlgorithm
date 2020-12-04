@@ -96,7 +96,3 @@ void Individual::print() const
     }
   }
 }
-
-
-
-
